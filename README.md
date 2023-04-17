@@ -108,7 +108,7 @@ plt.show()
 
 ```
 ## OUTPUT:
-#### ORGINAL IMAGE:
+#### ORIGINAL IMAGE:
 ![OUTPUT](original.webp)
 ### SOBEL EDGE DETECTOR
 #### SOBEL X: 
