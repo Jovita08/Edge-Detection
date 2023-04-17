@@ -24,10 +24,8 @@ Display the filtered image using plot and imshow.
 
  
 ## PROGRAM:
-
-name:- EZHIL MATHI R
-
-reg no:- 212221230026
+### Developed By   : Virgil Jovita A
+### Register Number: 212221240062
 ``` Python
 import cv2
 import matplotlib.pyplot as plt
