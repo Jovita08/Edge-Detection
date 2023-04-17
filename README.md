@@ -1,4 +1,4 @@
-# Edge-Detection 
+# <c>Edge-Detection </c>
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
